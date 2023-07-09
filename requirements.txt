@@ -3,9 +3,11 @@ matplotlib
 plotly
 pandas
 pillow
+nbformat
 streamlit
 flask
 pyqt6
 dputils
 opencv-contrib-python
 openpyxl
+streamlit
